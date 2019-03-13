@@ -8,7 +8,7 @@ download the Lit-helper_function.R, pubmed_Miner.R and the Query.R from the resp
 3.	wordcloud
 4.	openxlsx
 5.	cluster
-6.	RCurl
+6.	httr
 7.	tm
 
 The tool uses Excel's 2007 (or later) .xlsx file format as input and output. A software that can read and write these formats is therefore necessary.
