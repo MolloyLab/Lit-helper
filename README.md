@@ -2,7 +2,7 @@
 Lit-helper is a new tool that aims to help researchers reduce time spend on literature research post analysis and streamline the decision about which proteins or genes are the most interesting and most promising for follow-up experiments.
 
 # Getting started
-Download the Lit-helper_function.R, PubMedMiner.R and the Lit-Helper.R from the respository. Make sure R as well as RTools is installed on your PC. It might also be helpful to have a development invironment (i.e RStudio) installed for easier use of R. Install the following packages in R:
+Download the Lit-helper_functions.R, PubMedMiner.R and the Lit-Helper.R from the respository. Make sure R as well as RTools is installed on your PC. It might also be helpful to have a development invironment (i.e RStudio) installed for easier use of R. Install the following packages in R:
 1.	rentrez
 2.	RISmed
 3.	wordcloud
